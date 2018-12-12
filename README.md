@@ -1,2 +1,2 @@
-# RCM_SENSITITIVITY_ANALYSIS
+# RCM_SENSITIVITY_ANALYSIS
 Sensitivity Analysis for Rice Crop Models
